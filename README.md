@@ -6,8 +6,7 @@
 
 💞️ I’m looking to collaborate on open-source projects, web development, or anything related to backend/frontend engineering
 
-📫 How to reach me :likhithuc980@gmail.com, https://leetcode.com/u/user4096ig/
-
+📫 How to reach me :likhithuc980@gmail.com
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I love debugging almost as much as building!
